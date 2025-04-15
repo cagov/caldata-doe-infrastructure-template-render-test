@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier
+_commit: 2f2faf4
+_src_path: ../caldata-infrastructure-template/
+dbt_profile_name: default
+email_address: test@test.com
+friendly_project_name: Sample Project
+license: MIT
+project_name: sample-project-Snowflake
+team_name: Test team
