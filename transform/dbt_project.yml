@@ -9,7 +9,7 @@ flags:
   warn_error: false
 
 # This setting configures which "profile" dbt uses for this project.
-profile: default
+profile: sample_project
 
 # These configurations specify where dbt should look for different types of files.
 # The `source-paths` config, for example, states that models in this project can be

@@ -120,7 +120,7 @@ from the dbt project root directory (`transform`).
 A minimal version of a `profiles.yml` for dbt development with is:
 
 ```yml
-default:
+sample_project:
   target: dev
   outputs:
     dev:

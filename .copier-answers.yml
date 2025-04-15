@@ -1,7 +1,7 @@
 # Changes here will be overwritten by Copier
-_commit: 2f2faf4
+_commit: d1eacc6
 _src_path: ../caldata-infrastructure-template/
-dbt_profile_name: default
+dbt_profile_name: sample_project
 email_address: test@test.com
 friendly_project_name: Sample Project
 license: MIT

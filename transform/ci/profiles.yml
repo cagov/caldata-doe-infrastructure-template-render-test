@@ -1,4 +1,4 @@
-default:
+sample_project:
   target: dev
   outputs:
     dev:
