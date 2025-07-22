@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier
-_commit: ed5f6bd
+_commit: 386b786
 _src_path: ../caldata-infrastructure-template/
 dbt_profile_name: sample_project
 email_address: test@test.com
